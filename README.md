@@ -1,4 +1,5 @@
 # One Project Per Week (1PPW) – 2025
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 A personal challenge to build **one project every week** throughout 2025 — alternating between software and hardware ideas.  
 Each project focuses on continuous improvement in **Python, C++, web technologies, and electronics**.
