@@ -1,5 +1,6 @@
 # One Project Per Week (1PPW) – 2025
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+📊 Track weekly progress on the [1PPW Project Board](https://github.com/users/antoniofaical/projects)
 
 A personal challenge to build **one project every week** throughout 2025 — alternating between software and hardware ideas.  
 Each project focuses on continuous improvement in **Python, C++, web technologies, and electronics**.
@@ -44,6 +45,15 @@ The challenge alternates between software and hardware projects, rotating among:
 Engineer and developer focused on Python, C++, web, and electronics.  
 🌐 [LinkedIn](https://www.linkedin.com/in/antoniofaical)  
 💻 [GitHub](https://github.com/antoniofaical)
+
+---
+
+## Projects
+
+| Week | Project | Type | Status | Repository |
+|:----:|:--------|:------|:--------|:------------|
+| 1 | Dice Roller CLI | Python (CLI) | ✅ Published | [antoniofaical/dice-roller](https://github.com/antoniofaical/dice-roller) |
+
 
 ---
 
