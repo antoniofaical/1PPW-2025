@@ -1,4 +1,4 @@
-![One Project Per Week – 2025 banner](media/banner.png)
+![One Project Per Week – 2025 banner](banner.png)
 
 
 # One Project Per Week (1PPW) – 2025
